@@ -1,0 +1,168 @@
+{
+    "gallery": {
+        "maintitle": "Jason Donegan",
+        "mainsubtitle": "The Psychic Godfather&trade;",
+        "items": [
+            {
+                "urlvar": "art",
+                "title": "Jason and a Friend",
+                "shortdesc": "Art and Design with Jason and a Friend",
+                "datetaken": "",
+                "longdesc": "",
+                "imgsrc": "images/portfolio/art-and-design-thmb.jpg"
+            },
+            {
+                "urlvar": "beige",
+                "title": "Jason: Classy, Refined, Handsome!",
+                "shortdesc": "Jason in a Beige Tuxedo",
+                "datetaken": "",
+                "longdesc": "",
+                "imgsrc": "images/portfolio/biege-tux-thmb.jpg"
+            },
+            {
+                "urlvar": "ch1",
+                "title": "The Carriage House",
+                "shortdesc": "A wider view of this great room",
+                "datetaken": "",
+                "longdesc": "",
+                "imgsrc": "images/portfolio/carriage-house-photo-1-thmb.jpg"
+            },
+            {
+                "urlvar": "ch2",
+                "title": "Inside the Carriage House",
+                "shortdesc": "A closer view of the sitting area",
+                "datetaken": "",
+                "longdesc": "",
+                "imgsrc": "images/portfolio/carriage-house-photo-2-thmb.jpg"
+            },
+            {
+                "urlvar": "chfrtdr",
+                "title": "A Great Front Door",
+                "shortdesc": "The Entrance to the Carriage House",
+                "datetaken": "",
+                "longdesc": "",
+                "imgsrc": "images/portfolio/entrance-to-carriage-house-thmb.jpg"
+            },
+            {
+                "urlvar": "hatgloves",
+                "title": "Classy, Upscale, the Best!",
+                "shortdesc": "This is what defines Jason above all others",
+                "datetaken": "",
+                "longdesc": "",
+                "imgsrc": "images/portfolio/hat-gloves-cane-thmb.jpg"
+            },
+            {
+                "urlvar": "irene",
+                "title": "Remember this Lady?",
+                "shortdesc": "Jason with Irene Cara",
+                "datetaken": "",
+                "longdesc": "",
+                "imgsrc": "images/portfolio/irene-cara-and-jason-donegan-thmb.jpg"
+            },
+            {
+                "urlvar": "fontanini",
+                "title": "Jason and his Pal",
+                "shortdesc": "Jason and his companion: Lucca",
+                "datetaken": "",
+                "longdesc": "",
+                "imgsrc": "images/portfolio/jason-and-fontanini-thmb.jpg"
+            },
+            {
+                "urlvar": "nancy",
+                "title": "Jason and Nancy",
+                "shortdesc": "Jason and Nancy in front of the Carriage House",
+                "datetaken": "",
+                "longdesc": "",
+                "imgsrc": "images/portfolio/jason-and-nancy-outside-carriage-house-thmb.jpg"
+            },
+            {
+                "urlvar": "robert",
+                "title": "Jason and Robert",
+                "shortdesc": "Jason and Nancy in front of the Carriage House",
+                "datetaken": "",
+                "longdesc": "",
+                "imgsrc": "images/portfolio/jason-and-robert-outside-carriage-house-thmb.jpg"
+            },
+            {
+                "urlvar": "rugby",
+                "title": "Rugby or Jason",
+                "shortdesc": "Rugby or Jason: Who's better looking?",
+                "datetaken": "",
+                "longdesc": "",
+                "imgsrc": "images/portfolio/jason-and-rugby-thmb.jpg"
+            },
+            {
+                "urlvar": "guards",
+                "title": "Jason with his pals",
+                "shortdesc": "Jason and The 'Vatican Guards'",
+                "datetaken": "",
+                "longdesc": "",
+                "imgsrc": "images/portfolio/jason-and-the-vatican-guards-thmb.jpg"
+            },
+            {
+                "urlvar": "cemetery",
+                "title": "A Solemn Moment",
+                "shortdesc": "Jason a the Cemetery",
+                "datetaken": "",
+                "longdesc": "",
+                "imgsrc": "images/portfolio/jason-at-cemetery-thmb.jpg"
+            },
+            {
+                "urlvar": "fountain",
+                "title": "Jason at a Fountain",
+                "shortdesc": "This fountain is gorgeous. Jason makes it looks GREAT!",
+                "datetaken": "",
+                "longdesc": "",
+                "imgsrc": "images/portfolio/jason-at-fountain-thmb.jpg"
+            },
+            {
+                "urlvar": "jasonch",
+                "title": "Jason at the Carriage House",
+                "shortdesc": "Jason in front of the Carriage House",
+                "datetaken": "",
+                "longdesc": "",
+                "imgsrc": "images/portfolio/jason-outside-carriage-house-thmb.jpg"
+            },
+            {
+                "urlvar": "alite",
+                "title": "John Alite",
+                "shortdesc": "John Alite drops the dime on the Psychic Godfather&trade;",
+                "datetaken": "",
+                "longdesc": "",
+                "imgsrc": "images/portfolio/john-alite-gotti-jason-thmb.jpg"
+            },
+            {
+                "urlvar": "seance",
+                "title": "The Seance Room",
+                "shortdesc": "The Seance Room at the Carriage House",
+                "datetaken": "",
+                "longdesc": "",
+                "imgsrc": "images/portfolio/seance-room-lg-thmb.jpg"
+            },
+            {
+                "urlvar": "sunflowers",
+                "title": "Sunflowers",
+                "shortdesc": "The beauty of Sunflowers! The can't help but brighten your day!",
+                "datetaken": "",
+                "longdesc": "",
+                "imgsrc": "images/portfolio/sunflowers-thmb.jpg"
+            },
+            {
+                "urlvar": "tearoom",
+                "title": "The Tea Reading Room",
+                "shortdesc": "Jason's original Psychic Tea Reading Room in 1977",
+                "datetaken": "",
+                "longdesc": "",
+                "imgsrc": "images/portfolio/jasons-psychic-tea-room-orginal-thmb.jpg"
+            },
+            {
+                "urlvar": "wedding",
+                "title": "Jason all Decked Out",
+                "shortdesc": "Jason at a wedding looking great in a Tux. Check out the $1000.00 shoes.",
+                "datetaken": "",
+                "longdesc": "",
+                "imgsrc": "images/portfolio/jay-solo-at-wedding-thmb.jpg"
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+[04-Nov-2018 16:30:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function field() in /home/nzohnufel8iw/public_html/form/handler.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nzohnufel8iw/public_html/form/handler.php on line 23
+[04-Nov-2018 16:37:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function field() in /home/nzohnufel8iw/public_html/form/handler.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nzohnufel8iw/public_html/form/handler.php on line 23
+[04-Nov-2018 17:43:52 UTC] PHP Notice:  Undefined index: name in /home/nzohnufel8iw/public_html/form/handler.php on line 36
+[04-Nov-2018 17:59:56 UTC] PHP Notice:  Undefined index: name in /home/nzohnufel8iw/public_html/form/handler.php on line 36
+[04-Nov-2018 18:29:08 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nzohnufel8iw/public_html/form/src/FormHandler.php on line 262
+[04-Nov-2018 18:30:33 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nzohnufel8iw/public_html/form/src/FormHandler.php on line 263
+[04-Nov-2018 18:31:26 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nzohnufel8iw/public_html/form/src/FormHandler.php on line 263
+[04-Nov-2018 18:31:52 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nzohnufel8iw/public_html/form/src/FormHandler.php on line 263
+[04-Nov-2018 18:50:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function initSecretKey() on null in /home/nzohnufel8iw/public_html/form/handler.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/nzohnufel8iw/public_html/form/handler.php on line 29
+[04-Nov-2018 19:04:31 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/nzohnufel8iw/public_html/form/src/FormHandler.php on line 275
+[04-Nov-2018 19:05:40 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/nzohnufel8iw/public_html/form/src/FormHandler.php on line 274
+[04-Nov-2018 19:44:37 UTC] PHP Warning:  Use of undefined constant post - assumed 'post' (this will throw an Error in a future version of PHP) in /home/nzohnufel8iw/public_html/form/src/FormHandler.php on line 264
+[04-Nov-2018 19:44:37 UTC] PHP Warning:  Use of undefined constant post - assumed 'post' (this will throw an Error in a future version of PHP) in /home/nzohnufel8iw/public_html/form/src/FormHandler.php on line 264
+[04-Nov-2018 19:44:37 UTC] PHP Warning:  Use of undefined constant post - assumed 'post' (this will throw an Error in a future version of PHP) in /home/nzohnufel8iw/public_html/form/src/FormHandler.php on line 264
+[04-Nov-2018 19:44:37 UTC] PHP Warning:  Use of undefined constant post - assumed 'post' (this will throw an Error in a future version of PHP) in /home/nzohnufel8iw/public_html/form/src/FormHandler.php on line 264
+[04-Nov-2018 19:44:37 UTC] PHP Warning:  Use of undefined constant post - assumed 'post' (this will throw an Error in a future version of PHP) in /home/nzohnufel8iw/public_html/form/src/FormHandler.php on line 264
+[04-Nov-2018 19:44:37 UTC] PHP Warning:  Use of undefined constant post - assumed 'post' (this will throw an Error in a future version of PHP) in /home/nzohnufel8iw/public_html/form/src/FormHandler.php on line 264
+[04-Nov-2018 19:44:37 UTC] PHP Warning:  Use of undefined constant post - assumed 'post' (this will throw an Error in a future version of PHP) in /home/nzohnufel8iw/public_html/form/src/FormHandler.php on line 264
+[04-Nov-2018 19:58:49 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/nzohnufel8iw/public_html/form/src/FormHandler.php on line 262
